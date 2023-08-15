@@ -65,7 +65,7 @@ article {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    flex-basis: calc(33.33% - 20px); /* Distribui os posts em 3 colunas */
+    flex-basis: 26%; /* Distribui os posts em 3 colunas */
     margin-bottom: 20px;
 }
 
